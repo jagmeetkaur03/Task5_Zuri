@@ -37,7 +37,7 @@ window.addEventListener("DOMContentLoaded", async () => {
 
   // backend api / client url
   // var CLIENT_URL = "http://localhost:3000";
-  var CLIENT_URL = "https://helpmeoutapp.vercel.app";
+  var CLIENT_URL = "https://hngtask5jagmeet.netlify.app/";
   var API_BASE_URL = `https://hngs5.mrprotocoll.me/api/documentation#/Recordings`;
   // var API_BASE_URL = `http://localhost:8080/api`;
 
